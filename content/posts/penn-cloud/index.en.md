@@ -7,7 +7,7 @@ author: "Roy Wu"
 authorLink: "https://roynwu.github.io"
 description: ""
 draft: false
-featuredImage: "/img/projects/penn-cloud/featured-image-alt5.jpeg"
+featuredImage: "/img/projects/penn-cloud/featured-image-alt5.JPG"
 categories: ["Projects"]
 tags: ["Distributed Systems"]
 
