@@ -7,7 +7,7 @@ author: "Roy Wu"
 authorLink: "https://roynwu.github.io"
 description: ""
 draft: false
-featuredImage: "/img/projects/artificial-anime-character-design/featured-image.JPG"
+featuredImage: "/img/projects/artificial-anime-character-design/featured-image-alt1.JPG"
 categories: ["Projects"]
 tags: ["Deep Learning", "Computer Vision"]
 
